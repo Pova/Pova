@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello 👋  I'm Roman Kitsela
+
+- Academic background: Mathematics PhD from UCSD - research focus: Algebraic number theory, non-Archimedian functional analysis.
+- 
+
+
+
+
 
 <!--
 **Pova/Pova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
