@@ -80,6 +80,11 @@
 - The neural network "brain" is initialized with random weights so to improve driving ability a genetic algorithm is used.
 - The changing weights within the neural network are visualized on the right as the car "learns" to drive.
 
+
+<hr/>
+
+![LinkedIn Data](https://user-images.githubusercontent.com/25727048/233780262-2122e6fd-4ec6-48b8-b244-6cdc3dae23da.png)
+
 <!--
 
 Here are some ideas to get you started:
