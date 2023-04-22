@@ -49,6 +49,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" / style=width:40px>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" / style=width:40px>
   <img width="40" alt="Screenshot 2023-04-22 at 10 55 45" src="https://user-images.githubusercontent.com/25727048/233778379-a509620d-f60b-4a3f-a2dc-421a9abd9b02.png">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" / style=width:40px>    
 </p>
 
 <hr/>
