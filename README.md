@@ -60,7 +60,7 @@
 | [Landing](https://pova.github.io/personal/)                     | Interactive demonstration of steering behaviours                  |
 | [Sorting](https://pova.github.io/personal/sorting/index.html)   | Visualization of common sorting algorithms                        |
 | [Search](https://pova.github.io/personal/search/index.html)     | Interactive visualization of searching algorithms                 |
-| [Vector](https://pova.github.io/personal/vector/index.html)     | Visualization of vector fields in 2D                              |
+| [Fields](https://pova.github.io/personal/vector/index.html)     | Visualization of vector fields in 2D                              |
 | [Perlin](https://pova.github.io/personal/perlin/index.html)     | Interactive visualization of smooth randomness w/ Perlin noise    |
 | [Curves](https://pova.github.io/personal/curves/index.html)     | Visualization of various curves in 3D space                       |
 | [Lorenz](https://pova.github.io/personal/lorenz/index.html)     | Visualization of chaotic systems (Lorenz attractor)               |
