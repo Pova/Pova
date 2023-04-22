@@ -53,7 +53,9 @@
 
 <hr/>
 
-### Portfolio website
+# Projects
+
+## [Portfolio website](https://github.com/Pova/personal)
 
 | Pages                                                           | Description                                                       | 
 | --------------------------------------------------------------- | ----------------------------------------------------------------- |
@@ -65,6 +67,18 @@
 | [Curves](https://pova.github.io/personal/curves/index.html)     | Visualization of various curves in 3D space                       |
 | [Lorenz](https://pova.github.io/personal/lorenz/index.html)     | Visualization of chaotic systems (Lorenz attractor)               |
 | [Snake](https://pova.github.io/personal/snake/index.html)       | Playable snake game                                               |
+
+<hr/>
+
+## [Self-driving car](https://github.com/Pova/Self-Driving-Car)
+
+### Self driving car project - implented with pure javascript. (Work in progress)
+
+<u>Key components:</u>
+
+- A simple neural network takes visual data from the car as input and outputs steering decisions. 
+- The neural network "brain" is initialized with random weights so to improve driving ability a genetic algorithm is used.
+- The changing weights within the neural network are visualized on the right as the car "learns" to drive.
 
 <!--
 
