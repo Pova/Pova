@@ -23,8 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" / style="width:50px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" / style="width:30px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" / style=width:40px>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" / style="width:40px;background:#03030a;">
-  <img width="30" alt="Screenshot 2023-04-20 at 15 53 01" src="https://user-images.githubusercontent.com/25727048/233404661-268fe304-f57c-48c2-acc6-902d197d1540.png">
+  <img width="40" alt="Screenshot 2023-04-22 at 10 54 58" src="https://user-images.githubusercontent.com/25727048/233778352-16920df2-9700-469b-b808-f26aada49222.png">
 </p>
 
 ### Technologies I have used:
@@ -42,26 +41,32 @@
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" / style=width:40px>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" / style=width:40px>
+  <img width="40" alt="Screenshot 2023-04-22 at 10 55 19" src="https://user-images.githubusercontent.com/25727048/233778369-a22b6cb4-8b46-4b29-a1bd-0592d100f24a.png">
+  <img width="40" alt="Screenshot 2023-04-22 at 11 02 27" src="https://user-images.githubusercontent.com/25727048/233778400-eb9c98d5-4342-4e8f-ab0c-22f514902574.png">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" / style=width:40px>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" / style=width:40px>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" / style=width:40px>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" / style=width:40px>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" / style=width:40px>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" / style=width:40px>
+  <img width="40" alt="Screenshot 2023-04-22 at 10 55 45" src="https://user-images.githubusercontent.com/25727048/233778379-a509620d-f60b-4a3f-a2dc-421a9abd9b02.png">
 </p>
 
 <hr/>
 
 ### Portfolio website
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Pages                                                           | Description                                                       | 
+| --------------------------------------------------------------- | ----------------------------------------------------------------- |
+| [Landing](https://pova.github.io/personal/)                     | Interactive demonstration of steering behaviours                  |
+| [Sorting](https://pova.github.io/personal/sorting/index.html)   | Visualization of common sorting algorithms                        |
+| [Search](https://pova.github.io/personal/search/index.html)     | Interactive visualization of searching algorithms                 |
+| [Vector](https://pova.github.io/personal/vector/index.html)     | Visualization of vector fields in 2D                              |
+| [Perlin](https://pova.github.io/personal/perlin/index.html)     | Interactive visualization of smooth randomness w/ Perlin noise    |
+| [Curves](https://pova.github.io/personal/curves/index.html)     | Visualization of various curves in 3D space                       |
+| [Lorenz](https://pova.github.io/personal/lorenz/index.html)     | Visualization of chaotic systems (Lorenz attractor)               |
+| [Snake](https://pova.github.io/personal/snake/index.html)       | Playable snake game                                               |
 
 <!--
-**Pova/Pova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
