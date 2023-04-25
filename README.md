@@ -61,7 +61,8 @@
 | Pages                                                           | Description                                                       | Preview |
 | --------------------------------------------------------------- | ----------------------------------------------------------------- | ------- |
 | [Landing](https://pova.github.io/personal/)                     | Interactive demonstration of steering behaviours                  | ![ezgif-4-11690af7a5](https://user-images.githubusercontent.com/25727048/234417474-4066bbff-df84-4ac8-902e-6cb49f5c6946.gif) |
-| [Sorting](https://pova.github.io/personal/sorting/index.html)   | Visualization of common sorting algorithms                        | ....... |
+| [Sorting](https://pova.github.io/personal/sorting/index.html)   | Visualization of common sorting algorithms                        | ![ezgif-4-1ce03661a3](https://user-images.githubusercontent.com/25727048/234423615-663824f9-02ea-45fe-b94b-8f7a556dac8b.gif)
+ |
 | [Search](https://pova.github.io/personal/search/index.html)     | Interactive visualization of searching algorithms                 | ....... |
 | [Fields](https://pova.github.io/personal/vector/index.html)     | Visualization of vector fields in 2D                              | ....... |
 | [Perlin](https://pova.github.io/personal/perlin/index.html)     | Interactive visualization of smooth randomness w/ Perlin noise    | ....... |
