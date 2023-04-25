@@ -65,8 +65,8 @@
 | [Search](https://pova.github.io/personal/search/index.html)     | Interactive visualization of searching algorithms                 |![ezgif-2-0dfbe11b92](https://user-images.githubusercontent.com/25727048/234424016-ad1c8f79-eaa0-4b27-9e95-48851b528684.gif)|
 | [Fields](https://pova.github.io/personal/vector/index.html)     | Visualization of vector fields in 2D                              |![ezgif-2-4acb8b2973](https://user-images.githubusercontent.com/25727048/234425163-26c21114-a550-4e33-9dee-fd8eb5ad3249.gif) |
 | [Perlin](https://pova.github.io/personal/perlin/index.html)     | Interactive visualization of smooth randomness w/ Perlin noise    |![ezgif-1-41b98dfc3e](https://user-images.githubusercontent.com/25727048/234428666-6a430699-05ae-4ab0-ad02-2347400fe6ad.gif)|
-| [Curves](https://pova.github.io/personal/curves/index.html)     | Visualization of various curves in 3D space                       | ![ezgif-1-a8ecf470b5](https://user-images.githubusercontent.com/25727048/234429233-f1347388-7039-4ff2-8352-85229c1f6d0b.gif)|
-| [Lorenz](https://pova.github.io/personal/lorenz/index.html)     | Visualization of chaotic systems (Lorenz attractor)               | ....... |
+| [Curves](https://pova.github.io/personal/curves/index.html)     | Visualization of various curves in 3D space                       |![ezgif-1-a8ecf470b5](https://user-images.githubusercontent.com/25727048/234429233-f1347388-7039-4ff2-8352-85229c1f6d0b.gif)|
+| [Lorenz](https://pova.github.io/personal/lorenz/index.html)     | Visualization of chaotic systems (Lorenz attractor)               |![ezgif-1-6315dca29b](https://user-images.githubusercontent.com/25727048/234430074-3c92f32b-9715-45a3-962c-393f785db0d1.gif)|
 | [Snake](https://pova.github.io/personal/snake/index.html)       | Playable snake game                                               | ....... |
 
 <hr/>
