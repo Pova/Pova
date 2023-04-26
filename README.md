@@ -85,4 +85,12 @@
 
 <hr/>
 
+## Advent of Code 
+
+<hr/>
+
+## Machine Learning Projects 
+
+<hr/>
+
 ![LinkedIn Data](https://user-images.githubusercontent.com/25727048/233780262-2122e6fd-4ec6-48b8-b244-6cdc3dae23da.png)
