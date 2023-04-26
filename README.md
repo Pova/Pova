@@ -10,6 +10,45 @@
 
 <hr/>
 
+# Projects
+
+## Portfolio website
+
+### [Repo](https://github.com/Pova/personal) | [Website](https://pova.github.io/personal/)
+
+| Pages                                                           | Description                                                       | Preview |
+| --------------------------------------------------------------- | ----------------------------------------------------------------- | ------- |
+| [Landing](https://pova.github.io/personal/)                     | Interactive demonstration of steering behaviours                  |![ezgif-4-11690af7a5](https://user-images.githubusercontent.com/25727048/234417474-4066bbff-df84-4ac8-902e-6cb49f5c6946.gif)|
+| [Sorting](https://pova.github.io/personal/sorting/index.html)   | Visualization of common sorting algorithms: <br><br> <ul><li>Bubble Sort</li><li>Insertion Sort</li><li>Selection Sort</li><li>Quick Sort</li><li>Merge Sort</li></ul>|![ezgif-4-1ce03661a3](https://user-images.githubusercontent.com/25727048/234423615-663824f9-02ea-45fe-b94b-8f7a556dac8b.gif)|
+| [Search](https://pova.github.io/personal/search/index.html)     | Interactive visualization of searching algorithms : <br><br> <ul><li>A*</li><li>Depth First Search</li><li>Breadth First Search</li></ul> <br><br> Features include: <br><br> <ul><li>Random, Maze, and Draw-Your-Own Obstacles</li><li>Optional Diagonal Pathing</li></ul>                 |![ezgif-1-f176201e57](https://user-images.githubusercontent.com/25727048/234435067-a7a8071d-fda1-4b50-ad26-e6aab662b8b5.gif)|
+| [Fields](https://pova.github.io/personal/vector/index.html)     | Visualization of vector fields in 2D                              |![ezgif-2-4acb8b2973](https://user-images.githubusercontent.com/25727048/234425163-26c21114-a550-4e33-9dee-fd8eb5ad3249.gif) |
+| [Perlin](https://pova.github.io/personal/perlin/index.html)     | Interactive visualization of smooth randomness w/ Perlin noise    |![ezgif-1-41b98dfc3e](https://user-images.githubusercontent.com/25727048/234428666-6a430699-05ae-4ab0-ad02-2347400fe6ad.gif)|
+| [Curves](https://pova.github.io/personal/curves/index.html)     | Visualization of various curves in 3D space                       |![ezgif-1-a8ecf470b5](https://user-images.githubusercontent.com/25727048/234429233-f1347388-7039-4ff2-8352-85229c1f6d0b.gif)|
+| [Lorenz](https://pova.github.io/personal/lorenz/index.html)     | Visualization of chaotic systems (Lorenz attractor)               |![ezgif-1-6315dca29b](https://user-images.githubusercontent.com/25727048/234430074-3c92f32b-9715-45a3-962c-393f785db0d1.gif)|
+| [Snake](https://pova.github.io/personal/snake/index.html)       | Playable snake game                                               |![ezgif-2-604c41a9a0](https://user-images.githubusercontent.com/25727048/234431083-e680332a-7a20-4fc7-b591-6e02f291ab1a.gif)|
+
+<hr/>
+
+## [Self-driving car](https://github.com/Pova/Self-Driving-Car)
+
+### Self driving car project - implented with pure javascript. (Work in progress)
+
+<u>Key components:</u>
+
+- A simple neural network takes visual data from the car as input and outputs steering decisions. 
+- The neural network "brain" is initialized with random weights so to improve driving ability a genetic algorithm is used.
+- The changing weights within the neural network are visualized on the right as the car "learns" to drive.
+
+<hr/>
+
+## Advent of Code 
+
+<hr/>
+
+## Machine Learning Projects 
+
+<hr/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pova&layout=compact&theme=dark&hide_progress=true)](https://github.com/Pova/github-readme-stats)
 
 ### Technologies I'm proficient with:
@@ -51,45 +90,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" / style=width:40px>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" / style=width:40px>    
 </p>
-
-<hr/>
-
-# Projects
-
-## Portfolio website
-
-### [Repo](https://github.com/Pova/personal) | [Website](https://pova.github.io/personal/)
-
-| Pages                                                           | Description                                                       | Preview |
-| --------------------------------------------------------------- | ----------------------------------------------------------------- | ------- |
-| [Landing](https://pova.github.io/personal/)                     | Interactive demonstration of steering behaviours                  |![ezgif-4-11690af7a5](https://user-images.githubusercontent.com/25727048/234417474-4066bbff-df84-4ac8-902e-6cb49f5c6946.gif)|
-| [Sorting](https://pova.github.io/personal/sorting/index.html)   | Visualization of common sorting algorithms: <br><br> <ul><li>Bubble Sort</li><li>Insertion Sort</li><li>Selection Sort</li><li>Quick Sort</li><li>Merge Sort</li></ul>|![ezgif-4-1ce03661a3](https://user-images.githubusercontent.com/25727048/234423615-663824f9-02ea-45fe-b94b-8f7a556dac8b.gif)|
-| [Search](https://pova.github.io/personal/search/index.html)     | Interactive visualization of searching algorithms : <br><br> <ul><li>A*</li><li>Depth First Search</li><li>Breadth First Search</li></ul>                 |![ezgif-1-f176201e57](https://user-images.githubusercontent.com/25727048/234435067-a7a8071d-fda1-4b50-ad26-e6aab662b8b5.gif)|
-| [Fields](https://pova.github.io/personal/vector/index.html)     | Visualization of vector fields in 2D                              |![ezgif-2-4acb8b2973](https://user-images.githubusercontent.com/25727048/234425163-26c21114-a550-4e33-9dee-fd8eb5ad3249.gif) |
-| [Perlin](https://pova.github.io/personal/perlin/index.html)     | Interactive visualization of smooth randomness w/ Perlin noise    |![ezgif-1-41b98dfc3e](https://user-images.githubusercontent.com/25727048/234428666-6a430699-05ae-4ab0-ad02-2347400fe6ad.gif)|
-| [Curves](https://pova.github.io/personal/curves/index.html)     | Visualization of various curves in 3D space                       |![ezgif-1-a8ecf470b5](https://user-images.githubusercontent.com/25727048/234429233-f1347388-7039-4ff2-8352-85229c1f6d0b.gif)|
-| [Lorenz](https://pova.github.io/personal/lorenz/index.html)     | Visualization of chaotic systems (Lorenz attractor)               |![ezgif-1-6315dca29b](https://user-images.githubusercontent.com/25727048/234430074-3c92f32b-9715-45a3-962c-393f785db0d1.gif)|
-| [Snake](https://pova.github.io/personal/snake/index.html)       | Playable snake game                                               |![ezgif-2-604c41a9a0](https://user-images.githubusercontent.com/25727048/234431083-e680332a-7a20-4fc7-b591-6e02f291ab1a.gif)|
-
-<hr/>
-
-## [Self-driving car](https://github.com/Pova/Self-Driving-Car)
-
-### Self driving car project - implented with pure javascript. (Work in progress)
-
-<u>Key components:</u>
-
-- A simple neural network takes visual data from the car as input and outputs steering decisions. 
-- The neural network "brain" is initialized with random weights so to improve driving ability a genetic algorithm is used.
-- The changing weights within the neural network are visualized on the right as the car "learns" to drive.
-
-<hr/>
-
-## Advent of Code 
-
-<hr/>
-
-## Machine Learning Projects 
 
 <hr/>
 
