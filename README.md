@@ -4,13 +4,13 @@
 - *Academic background:* 👨‍🎓 Mathematics PhD from UCSD. **Research focus:** Algebraic number theory, p-adic Lie groups, non-Archimedian functional analysis. Thesis title: *A Tannakian result for profinite groups* 
 - *Professional work background:* 👨‍🏫 Mathematics lecturer at UCSD
 - *Technical interests:* 🧠 Machine learning and AI, Data driven analytics, Data visualization
-- *Hobbies:* 💪 Gym, 🎸 (learning) Classical guitar, 🎮 Video games
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Pova)](https://github.com/Pova/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pova&layout=compact)](https://github.com/Pova/github-readme-stats)
+- *Hobbies:* 💪 Gym, 🧗‍♂️ Bouldering, 🎸 Classical guitar, 🎮 Video games
+  
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Pova&theme=dark)](https://github.com/Pova/github-readme-stats)
 
 <hr/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pova&layout=compact&theme=dark&hide_progress=true)](https://github.com/Pova/github-readme-stats)
 
 ### Technologies I'm proficient with:
 <p>
@@ -56,7 +56,9 @@
 
 # Projects
 
-## [Portfolio website](https://github.com/Pova/personal)
+## Portfolio website
+
+### [Repo](https://github.com/Pova/personal) | [Website](https://pova.github.io/personal/)
 
 | Pages                                                           | Description                                                       | Preview |
 | --------------------------------------------------------------- | ----------------------------------------------------------------- | ------- |
