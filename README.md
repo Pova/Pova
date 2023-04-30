@@ -1,5 +1,7 @@
 ## Hello 👋  I'm Roman Kitsela
 
+
+
 - *Currently:* 🧑‍💻 Training to be a data engineering consultant at Xander Talent
 - *Academic background:* 👨‍🎓 Mathematics PhD from UCSD. **Research focus:** Algebraic number theory, p-adic Lie groups, non-Archimedian functional analysis. Thesis title: *A Tannakian result for profinite groups* 
 - *Professional work background:* 👨‍🏫 Mathematics lecturer at UCSD
@@ -29,9 +31,11 @@
 
 <hr/>
 
-## [Self-driving car](https://github.com/Pova/Self-Driving-Car)
+## Self Driving Car
 
 ### Self driving car project - implented with pure javascript. (Work in progress)
+
+<img src="https://github.com/Pova/Self-Driving-Car/blob/main/Screenshot.png?raw=true" style="width:50%"></img>
 
 <u>Key components:</u>
 
