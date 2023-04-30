@@ -78,7 +78,7 @@
 
 <hr/>
 
-## Self Driving Car
+## [Self Driving Car](https://github.com/Pova/Self-Driving-Car)
 
 ### Self driving car project - implented with pure javascript. (Work in progress)
 
@@ -92,11 +92,11 @@
 
 <hr/>
 
-## Advent of Code 
+## [Coursera - IBM Data Science Professional - Projects](https://github.com/Pova/Coursera-Projects-)
 
 <hr/>
 
-## Machine Learning Projects 
+## Advent of Code 
 
 <hr/>
 
