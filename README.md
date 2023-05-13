@@ -92,7 +92,11 @@
 
 <hr/>
 
+# Learning 
+
 ## [Coursera - IBM Data Science Professional - Projects](https://github.com/Pova/Coursera-Projects-)
+
+### The IBM Data Science Professional Certificate is a comprehensive program that equips learners with the skills and tools necessary to pursue a career in data science.
 
 <hr/>
 
