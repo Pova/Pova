@@ -98,6 +98,8 @@
 
 ## [Advent of Code](https://github.com/Pova/Advent-of-Code-Dec-2022)
 
+### Advent of Code is a yearly programming event that features Christmas-themed challenges of varying skill levels and can be solved with any programming language.
+
 <hr/>
 
 ![LinkedIn Data](https://user-images.githubusercontent.com/25727048/233780262-2122e6fd-4ec6-48b8-b244-6cdc3dae23da.png)
