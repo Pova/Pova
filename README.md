@@ -98,11 +98,15 @@
 
 ### The IBM Data Science Professional Certificate is a comprehensive program that equips learners with the skills and tools necessary to pursue a career in data science.
 
+This is a repository of some of the work I've done for the certification.
+
 <hr/>
 
 ## [Advent of Code](https://github.com/Pova/Advent-of-Code-Dec-2022)
 
 ### Advent of Code is a yearly programming event that features Christmas-themed challenges of varying skill levels and can be solved with any programming language.
+
+This is a repository of my solutions - written in python - to the challenges from the 2022 edition of this event.
 
 <hr/>
 
