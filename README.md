@@ -98,7 +98,7 @@
 
 ### The IBM Data Science Professional Certificate is a comprehensive program that equips learners with the skills and tools necessary to pursue a career in data science.
 
-This is a repository of some of the work I've done for the certification.
+This repository is a collection of some of the work I've done for the certification.
 
 <hr/>
 
@@ -106,7 +106,15 @@ This is a repository of some of the work I've done for the certification.
 
 ### Advent of Code is a yearly programming event that features Christmas-themed challenges of varying skill levels and can be solved with any programming language.
 
-This is a repository of my solutions - written in python - to the challenges from the 2022 edition of this event.
+This repository contains my solutions - written in python - to the challenges from the 2022 edition of this event.
+
+<hr/>
+
+## [Caltech ML Course CS-156](https://github.com/Pova/Caltech-Machine-Learning-Course---CS-156)
+
+### This is an introductory course in machine learning (ML) that covers the basic theory, algorithms, and applications
+
+This GitHub repository contains homework solutions for assignments from the course.
 
 <hr/>
 
