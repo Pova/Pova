@@ -8,6 +8,12 @@
 - *Technical interests:* 🧠 Machine learning and AI, Data driven analytics, Data visualization
 - *Hobbies:* 💪 Gym, 🧗‍♂️ Bouldering, 🎸 Classical guitar, 🎮 Video games
 
+<hr/>
+
+### [Projects](https://github.com/Pova/Pova/edit/main/README.md#learning) | [Learning](https://github.com/Pova/Pova/edit/main/README.md#learning)
+
+<hr/>
+
 ### Technologies I'm proficient with:
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" / style=width:40px>
@@ -55,11 +61,10 @@
   
 </div>
 
-
-
 <hr/>
 
-# Projects
+<!-- # Projects -->
+<h1 href="projects">Projects</h1>
 
 ## Portfolio website
 
@@ -92,7 +97,8 @@
 
 <hr/>
 
-# Learning 
+<!-- # Learning -->
+<h1 href="learning">Learning</h1>
 
 ## [Coursera - IBM Data Science Professional - Projects](https://github.com/Pova/Coursera-Projects-)
 
