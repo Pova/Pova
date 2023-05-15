@@ -10,7 +10,7 @@
 
 <hr/>
 
-### [Projects](https://github.com/Pova/Pova/edit/main/README.md#learning) | [Learning](https://github.com/Pova/Pova/edit/main/README.md#learning)
+### [Projects](https://github.com/Pova#learning) | [Learning](https://github.com/Pova#learning)
 
 <hr/>
 
