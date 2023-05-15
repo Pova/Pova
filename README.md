@@ -10,7 +10,7 @@
 
 <hr/>
 
-### [Projects](https://github.com/Pova#learning) | [Learning](https://github.com/Pova#learning)
+### [Projects](#projects) | [Learning](#learning)
 
 <hr/>
 
@@ -63,8 +63,7 @@
 
 <hr/>
 
-<!-- # Projects -->
-<h1 href="projects">Projects</h1>
+# Projects
 
 ## Portfolio website
 
@@ -97,8 +96,7 @@
 
 <hr/>
 
-<!-- # Learning -->
-<h1 href="learning">Learning</h1>
+# Learning
 
 ## [Coursera - IBM Data Science Professional - Projects](https://github.com/Pova/Coursera-Projects-)
 
