@@ -3,7 +3,8 @@
 
 
 - *Currently:* 🧑‍💻 Training to be a data engineering consultant at Xander Talent
-- *Academic background:* 👨‍🎓 Mathematics PhD from UCSD. **Research focus:** Algebraic number theory, p-adic Lie groups, non-Archimedian functional analysis. Thesis title: *A Tannakian result for profinite groups* 
+- *Academic background:* 👨‍🎓 Mathematics PhD from UCSD. **Research focus:** Algebraic number theory, p-adic Lie groups, non-Archimedian functional analysis. Thesis: [*A Tannakian result for profinite groups*](https://github.com/Pova/Pova/files/11482842/Defense_presentation.pdf)
+
 - *Professional work background:* 👨‍🏫 Mathematics lecturer at UCSD
 - *Technical interests:* 🧠 Machine learning and AI, Data driven analytics, Data visualization
 - *Hobbies:* 💪 Gym, 🧗‍♂️ Bouldering, 🎸 Classical guitar, 🎮 Video games
