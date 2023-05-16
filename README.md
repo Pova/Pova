@@ -10,7 +10,7 @@
 
 <hr/>
 
-### [Projects](#projects) | [Learning](#learning)
+# [Projects](#projects) | [Learning](#learning)
 
 <hr/>
 
