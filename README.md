@@ -89,7 +89,7 @@
 
 <img width="400" src="https://github.com/Pova/Pova/assets/25727048/a223d022-2ded-4193-a7e4-aa3695cea580">
 
-<u>Key components:</u>
+**Key components:**
 
 - A simple neural network takes visual data from the car as input and outputs steering decisions. 
 - The neural network "brain" is initialized with random weights so to improve driving ability a genetic algorithm is used.
