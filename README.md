@@ -1,7 +1,5 @@
 ## Hello 👋  I'm Roman Kitsela
 
-
-
 - *Currently:* 🧑‍💻 Training to be a data engineering consultant at Xander Talent
 - *Academic background:* 👨‍🎓 Mathematics PhD from UCSD. **Research focus:** Algebraic number theory, p-adic Lie groups, non-Archimedian functional analysis. Thesis: [*A Tannakian result for profinite groups*](https://github.com/Pova/Pova/files/11482842/Defense_presentation.pdf)
 
