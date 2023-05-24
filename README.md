@@ -1,6 +1,6 @@
 ## Hello 👋  I'm Roman Kitsela
 
-- *Currently:* 🧑‍💻 Training to be a data engineering consultant at Xander Talent
+<!-- - *Currently:* 🧑‍💻 Training to be a data engineering consultant at Xander Talent -->
 - *Academic background:* 👨‍🎓 Mathematics PhD from UCSD. **Research focus:** Algebraic number theory, p-adic Lie groups, non-Archimedian functional analysis. Thesis: [*A Tannakian result for profinite groups*](https://github.com/Pova/Pova/files/11482842/Defense_presentation.pdf)
 
 - *Professional work background:* 👨‍🏫 Mathematics lecturer at UCSD
@@ -120,7 +120,7 @@ This repository contains my solutions - written in python - to the challenges fr
 This GitHub repository contains homework solutions for assignments from the course.
 
 <hr/>
-
+<!-- 
 ![LinkedIn Data](https://user-images.githubusercontent.com/25727048/233780262-2122e6fd-4ec6-48b8-b244-6cdc3dae23da.png)
 
-<hr/>
+<hr/> -->
