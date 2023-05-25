@@ -85,7 +85,7 @@
 
 ### Self driving car project - implented with pure javascript. (Work in progress)
 
-<img width="400" src="https://github.com/Pova/Pova/assets/25727048/a223d022-2ded-4193-a7e4-aa3695cea580">
+![ezgif-3-089ac46fdd](https://github.com/Pova/Pova/assets/25727048/e5b51992-0d5f-48ba-ab06-52f794af61c4)
 
 **Key components:**
 
