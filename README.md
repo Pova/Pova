@@ -83,7 +83,7 @@
 
 ## [Self Driving Car](https://github.com/Pova/Self-Driving-Car)
 
-### Self driving car project - implented with pure javascript. (Work in progress)
+### Self driving car project - implented with pure javascript.
 
 ![ezgif-3-089ac46fdd](https://github.com/Pova/Pova/assets/25727048/e5b51992-0d5f-48ba-ab06-52f794af61c4)
 
