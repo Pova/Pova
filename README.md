@@ -53,12 +53,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" / style=width:40px>    
 </p>
 
-<div>
+<!-- <div>
   
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Pova&theme=dark)](https://github.com/Pova/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pova&theme=dark&hide_progress=true)](https://github.com/Pova/github-readme-stats)
   
-</div>
+</div> -->
 
 <hr/>
 
