@@ -11,7 +11,7 @@
 
 # [Projects](#projects) | [Learning](#learning)
 
-<hr/>
+<!-- <hr/> -->
 
 ### Technologies I'm proficient with:
 <p>
