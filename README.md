@@ -100,14 +100,6 @@
 
 # Learning
 
-## [Coursera - IBM Data Science Professional - Projects](https://github.com/Pova/Coursera-Projects-)
-
-### The IBM Data Science Professional Certificate is a comprehensive program that equips learners with the skills and tools necessary to pursue a career in data science.
-
-This repository is a collection of some of the work I've done for the certification.
-
-<hr/>
-
 ## [Advent of Code](https://github.com/Pova/Advent-of-Code-Dec-2022)
 
 ### Advent of Code is a yearly programming event that features Christmas-themed challenges of varying skill levels and can be solved with any programming language.
